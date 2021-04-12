@@ -30,9 +30,15 @@
 
 详细步骤就不在这里展开了，可[点击这里了解详情](https://github.com/LeeJianQ/wapp)
 
-### 接下来进入实战环节
+### 效果展示
 
+![首页](./src/assets/images/demo.png "home")
 
+### 优化相关
+
+运行 `npm run build:dev` 命令，查看打包后文件，可以发现 vite 默认关闭 sourcemap, 那么生产环境构建时，无需关注这点、除非有特殊需求。  
+
+接下只需要关注如何在 vite 开始 gzip 构建命令(是否需要？)
 
 ## 进阶 - 自定义插件
 
