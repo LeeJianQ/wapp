@@ -28,7 +28,7 @@
 - 整合 axios `npm install axios`
 - 整合 vconsole 用于真机调试
 
-详细步骤就不在这里展开了，可[点击这里了解详情](https://github.com/LeeJianQ/wapp)
+详细步骤就不在这里展开了，可[点击这里了解详情](https://github.com/LeeJianQ/wapp/tree/master)
 
 ### 效果展示
 
@@ -42,7 +42,7 @@
 
 ## 进阶 - 自定义插件
 
-了解完基础的知识之后，再来了解一下进阶的用发，用于各种代码处理
+了解完基础的知识之后，再来了解一下进阶的用法，用于各种代码处理
 
 ### 插件执行顺序
 
